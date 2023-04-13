@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+DIEGO+ARDAIS;I'm+from+Brazil,+RS;I+study+software+engineering+at+PUCRS;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-<div align="center">
+<!-- <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=diegoardais&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Diego Ardais github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoardais&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
-</div>
+</div> -->
 
 <br>
 
